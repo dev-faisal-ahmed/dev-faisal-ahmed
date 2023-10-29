@@ -8,7 +8,7 @@ import { BsFillCaretDownFill } from 'react-icons/bs';
 export function Hero() {
   return (
     <motion.div
-      id='home'
+      id='about'
       className='container mt-10 flex flex-col-reverse items-center gap-10 lg:mt-28 lg:flex-row'
     >
       <motion.div

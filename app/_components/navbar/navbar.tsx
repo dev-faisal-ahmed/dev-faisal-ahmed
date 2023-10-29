@@ -1,6 +1,7 @@
 'use client';
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
+import { FaInstalod } from 'react-icons/fa';
 import { navLinks } from '@/data/nav-links';
 import { Kalam } from 'next/font/google';
 import { MobileNavMenu } from './mobile-nav-menu';
@@ -24,12 +25,15 @@ export function Navbar() {
     <nav
       className={`sticky left-0 top-0 py-3 ${
         scrollPosition > 10
-          ? 'bg-indigo-950/20 backdrop-blur-lg'
+          ? 'bg-indigo-950 backdrop-blur-lg'
           : 'bg-transparent'
       }`}
     >
       <div className='container flex items-center gap-5 md:gap-8'>
-        <h1 className={`${font.className} text-3xl`}>Faisal</h1>
+        <h1 className={`${font.className} flex items-center gap-3 text-3xl`}>
+          <FaInstalod />
+          Portfolio
+        </h1>
         <ul className='ml-auto hidden gap-8 md:flex'>
           {navLinks.map((link, index) => (
             <li key={index}>

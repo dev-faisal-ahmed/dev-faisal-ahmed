@@ -26,6 +26,6 @@
     @apply rounded-md bg-indigo-600/20 px-5 py-2 font-semibold text-white shadow-[0_0_5px_2px] shadow-indigo-600 transition-colors duration-300 hover:shadow-[0_0_5px_5px] hover:shadow-indigo-600;
   }
   .button-secondary {
-    @apply rounded-md bg-gradient-to-r from-pink-500 to-pink-700 px-5 py-2;
+    @apply rounded-md bg-gradient-to-r from-indigo-700 to-pink-700 px-5 py-2;
   }
 }
