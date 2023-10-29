@@ -1,16 +1,34 @@
 'use client';
 import Link from 'next/link';
+import { useEffect, useState } from 'react';
 import { navLinks } from '@/data/nav-links';
 import { Kalam } from 'next/font/google';
-import { ThemeToggler } from './theme-toggler';
 import { MobileNavMenu } from './mobile-nav-menu';
 
 const font = Kalam({ weight: '700', subsets: ['latin'] });
 
 export function Navbar() {
+  const [scrollPosition, setScrollPosition] = useState(0);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setScrollPosition(window.scrollY);
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, []);
   return (
-    <nav className='px-5 py-3'>
-      <div className='container mx-auto flex items-center gap-5 md:gap-8'>
+    <nav
+      className={`sticky left-0 top-0 py-3 ${
+        scrollPosition > 10
+          ? 'bg-indigo-950/20 backdrop-blur-lg'
+          : 'bg-transparent'
+      }`}
+    >
+      <div className='container flex items-center gap-5 md:gap-8'>
         <h1 className={`${font.className} text-3xl`}>Faisal</h1>
         <ul className='ml-auto hidden gap-8 md:flex'>
           {navLinks.map((link, index) => (
@@ -24,15 +42,11 @@ export function Navbar() {
               </Link>
             </li>
           ))}
-          <Link
-            href={'#contact-me'}
-            className='rounded-md bg-indigo-600 px-5 py-2 font-semibold text-white shadow-[0_0_5px_2px] shadow-indigo-400 transition-colors duration-300 dark:bg-indigo-600/20 dark:shadow-[0_0_5px_2px] dark:shadow-indigo-600 dark:hover:shadow-[0_0_5px_5px] dark:hover:shadow-indigo-600'
-          >
+          <Link href={'#contact-me'} className='button-primary'>
             Contact Me
           </Link>
         </ul>
         <MobileNavMenu />
-        <ThemeToggler />
       </div>
     </nav>
   );
