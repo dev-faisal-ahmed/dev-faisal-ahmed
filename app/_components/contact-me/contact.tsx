@@ -58,8 +58,8 @@ export function Contact() {
 
   return (
     <div
-      id='#contact-me'
-      className='mt-20 bg-gradient-to-tr from-indigo-700/10 to-red-950/10 py-8 lg:py-20'
+      id='contact'
+      className='mt-20 bg-gradient-to-tr from-indigo-700/10 to-red-950/10 py-8 lg:py-20 px-5'
     >
       <Toaster />
       <h2 className='text-center text-4xl font-semibold'>Contact</h2>
@@ -68,7 +68,7 @@ export function Contact() {
       </p>
       <div className='mx-auto mt-16 w-full max-w-[550px] rounded-md border border-indigo-800 p-5 shadow-[0_0_5px_2px] shadow-indigo-950'>
         <form className='space-y-5' onSubmit={onEmailSubmission}>
-          <div className='flex w-full items-center gap-5'>
+          <div className='flex w-full flex-col items-center gap-5 md:flex-row'>
             <Input
               label='Email'
               name='email'

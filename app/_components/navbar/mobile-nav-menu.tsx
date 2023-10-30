@@ -45,7 +45,7 @@ export function MobileNavMenu() {
                   </Link>
                 ))}
                 <div className='h-6' />
-                <Link className='button-secondary' href={'#contact-me'}>
+                <Link className='button-secondary' href={'#contact'}>
                   Contact Me
                 </Link>
               </motion.div>

@@ -46,7 +46,7 @@ export function Navbar() {
               </Link>
             </li>
           ))}
-          <Link href={'#contact-me'} className='button-primary'>
+          <Link href={'#contact'} className='button-primary'>
             Contact Me
           </Link>
         </ul>
