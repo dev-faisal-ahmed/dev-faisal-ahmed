@@ -11,3 +11,16 @@ export type SkillsDataType = {
   backEnd: SkillType[];
   others: SkillType[];
 };
+
+export type ProjectType = {
+  title: string;
+  image: string;
+  technologies: string[];
+  detail: string;
+  sourceCode: {
+    code?: string;
+    frontEnd?: string;
+    backEnd?: string;
+  };
+  liveLink?: string;
+};

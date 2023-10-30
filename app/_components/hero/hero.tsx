@@ -9,12 +9,12 @@ export function Hero() {
   return (
     <motion.div
       id='about'
-      className='container mt-10 flex flex-col-reverse items-center gap-10 lg:mt-28 lg:flex-row'
+      className='container flex flex-col-reverse items-center gap-10 pt-10 lg:flex-row lg:pt-20'
     >
       <motion.div
         initial={{ x: '-100px' }}
         animate={{ x: 0 }}
-        className='w-full text-center lg:text-left'
+        className='w-full text-center  lg:text-left'
       >
         <h1 className='text-3xl font-semibold md:text-6xl'>
           Hi, I am <br /> Faisal Ahmed

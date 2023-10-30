@@ -7,7 +7,7 @@ type SkillsContainerProps = {
 
 export function SkillsContainer({ skillType, skills }: SkillsContainerProps) {
   return (
-    <div className='w-full rounded-md border border-indigo-800 p-5 shadow-[0_0_5px_2px] shadow-indigo-950 md:w-[500px]'>
+    <div className='w-full rounded-md border border-indigo-800 p-5 shadow-[0_0_5px_2px] shadow-indigo-950 transition hover:-translate-y-3 md:w-[500px]'>
       <h4 className='mb-8 text-center text-2xl text-white/70'>{skillType}</h4>
       <div className='flex flex-wrap items-center justify-center gap-5'>
         {skills.map((skill, index) => (

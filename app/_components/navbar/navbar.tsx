@@ -23,7 +23,7 @@ export function Navbar() {
   }, []);
   return (
     <nav
-      className={`sticky left-0 top-0 py-3 ${
+      className={`sticky left-0 top-0 z-10 py-3 ${
         scrollPosition > 10
           ? 'bg-indigo-950 backdrop-blur-lg'
           : 'bg-transparent'

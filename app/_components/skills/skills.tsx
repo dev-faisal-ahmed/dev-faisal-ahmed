@@ -3,7 +3,10 @@ import { SkillsContainer } from './skills-container';
 
 export function Skills() {
   return (
-    <div className='mt-20 bg-gradient-to-tr from-indigo-700/10 to-indigo-950/10 py-8 lg:py-20'>
+    <div
+      id='skills'
+      className='mt-20 bg-gradient-to-tr from-indigo-700/10 to-red-950/10 py-8 lg:py-20'
+    >
       <div className='container '>
         <h2 className='text-center text-4xl font-semibold'>Skills</h2>
         <p className='mx-auto mt-5 text-center text-white/60 md:max-w-[450px]'>
