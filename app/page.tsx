@@ -1,3 +1,4 @@
+import { Contact } from './_components/contact-me/contact';
 import { Hero } from './_components/hero/hero';
 import { Projects } from './_components/projects/projects';
 import { Skills } from './_components/skills/skills';
@@ -8,6 +9,7 @@ export default function Home() {
       <Hero />
       <Skills />
       <Projects />
+      <Contact />
     </>
   );
 }

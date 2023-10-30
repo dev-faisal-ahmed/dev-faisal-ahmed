@@ -19,6 +19,7 @@ import { TbBrandGraphql, TbBrandMysql, TbBrandVscode } from 'react-icons/tb';
 import { FaReact, FaNodeJs } from 'react-icons/fa';
 import { BsGit } from 'react-icons/bs';
 import { BiLogoNetlify } from 'react-icons/bi';
+import { IoMdMailOpen } from 'react-icons/io';
 
 export const skillsData: SkillsDataType = {
   frontEnd: [
@@ -84,6 +85,10 @@ export const skillsData: SkillsDataType = {
     {
       title: 'MySql',
       icon: <TbBrandMysql />,
+    },
+    {
+      title: 'Node Mailer',
+      icon: <IoMdMailOpen />,
     },
   ],
   others: [

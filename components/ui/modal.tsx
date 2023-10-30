@@ -25,11 +25,11 @@ export function Modal({
           className='fixed left-0 top-0 flex h-[100dvh] w-screen items-center justify-center bg-black/70 backdrop-blur-lg'
         >
           <motion.div
-            initial={{ scale: 0, opacity: 0 }}
+            initial={{ scale: 0, opacity: 0.5 }}
             animate={{ scale: 1, opacity: 1 }}
-            exit={{ scale: 0, opacity: 0 }}
-            className='w-[90%] max-w-[550px] rounded-md bg-indigo-700/10 p-5 shadow-[0_0_5px_2px] shadow-indigo-700 backdrop-blur-md md:w-1/3'
+            exit={{ scale: 0, opacity: 0.5 }}
             onClick={(event) => event.stopPropagation()}
+            className='w-[90%] max-w-[550px] rounded-md bg-indigo-700/10 p-5 shadow-[0_0_5px_2px] shadow-indigo-700 backdrop-blur-md md:w-1/3'
           >
             <header className='text-xl font-semibold text-white/70'>
               {title}
