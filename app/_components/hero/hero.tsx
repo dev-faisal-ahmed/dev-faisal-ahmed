@@ -38,15 +38,17 @@ export function Hero() {
           beautiful structures, I design and build the user interfaces of modern
           digital products.
         </p>
-        <button
+        <a
           className={twMerge(
             'button-secondary',
             'mx-auto mt-10 flex w-fit items-center gap-2 py-3 text-sm lg:mx-0 lg:text-base',
           )}
+          href='/assets/Resume-Faisal-Ahmed.pdf'
+          download={true}
         >
           Download Resume
           <BsFillCaretDownFill />
-        </button>
+        </a>
       </motion.div>
       <motion.div
         initial={{ x: '200px' }}
@@ -56,7 +58,7 @@ export function Hero() {
         <div className='mx-auto mb-8 h-[300px] w-[300px] md:mb-0 md:mr-auto md:h-[400px] md:w-[400px]'>
           <Image
             className='w-full rounded-full border-2 border-indigo-700/90'
-            src={'/assets/myPic.jpg'}
+            src={'/assets/myPic.png'}
             alt='Faisal-Ahmed'
             width={400}
             height={400}

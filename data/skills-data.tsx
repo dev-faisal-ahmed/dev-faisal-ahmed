@@ -86,10 +86,6 @@ export const skillsData: SkillsDataType = {
       title: 'MySql',
       icon: <TbBrandMysql />,
     },
-    {
-      title: 'Node Mailer',
-      icon: <IoMdMailOpen />,
-    },
   ],
   others: [
     {
@@ -115,6 +111,10 @@ export const skillsData: SkillsDataType = {
     {
       title: 'Netlify',
       icon: <BiLogoNetlify />,
+    },
+    {
+      title: 'Node Mailer',
+      icon: <IoMdMailOpen />,
     },
   ],
 };
