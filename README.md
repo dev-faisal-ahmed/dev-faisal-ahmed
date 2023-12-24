@@ -28,10 +28,10 @@ My name is Faisal Ahmed and I am a front-end developer with a passion for creati
 ## Current Stats
 
 <div align="center" >
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-faisalahmed&theme=github_dark" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-faisal-ahmed&theme=github_dark" width="100%">
 </div>
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-faisalahmed&theme=github_dark" width="33%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-faisalahmed&theme=github_dark" width="33%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-faisalahmed&theme=github_dark&utcOffset=8" width="33%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-faisal-ahmed&theme=github_dark" width="33%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-faisal-ahmed&theme=github_dark" width="33%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-faisal-ahmed&theme=github_dark&utcOffset=8" width="33%">
 </div>
