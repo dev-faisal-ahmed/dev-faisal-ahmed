@@ -33,5 +33,5 @@ My name is Faisal Ahmed and I am a front-end developer with a passion for creati
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-faisal-ahmed&theme=github_dark" width="33%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-faisal-ahmed&theme=github_dark" width="33%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-faisal-ahmed&theme=github_dark&utcOffset=8" width="33%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-faisal-ahmed&theme=github_dark&utcOffset=6" width="33%">
 </div>
