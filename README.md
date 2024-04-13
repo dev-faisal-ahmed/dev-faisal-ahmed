@@ -6,7 +6,7 @@ My name is Faisal Ahmed and I am a front-end developer with a passion for creati
 
 ### Current Overview
 
-**🥅 Goals of 2024 🥅** - **Full Stack, Flutter, GraphQL, Docker, AWS, Core Networking. Core Database\_**
+**🥅 Goals of 2024 🥅** - **Full Stack, React Native, GraphQL, Docker, AWS, Core Networking. Core Database\_**
 
 **💼 I’m ready to work ->**
 
