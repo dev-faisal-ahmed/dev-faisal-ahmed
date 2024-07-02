@@ -1,37 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1A84F7&random=false&width=850&lines=Faisal+Ahmed;FontEnd+Developer)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Faisal Ahmed</h1>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
-## About Me || [RESUME][resume]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-faisal-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="dev-faisal-ahmed" /> </p>
 
-My name is Faisal Ahmed and I am a front-end developer with a passion for creating complex and functional web applications. I have experience in implementing various design elements and features using HTML, CSS, JavaScript, ReactJs, NextJs and other frameworks. I am always eager to learn new skills and technologies to enhance my web development abilities.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-faisal-ahmed" alt="dev-faisal-ahmed" /></a> </p>
 
-### Current Overview
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ostfaisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ostfaisal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ost-faisal-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ost-faisal-ahmed" height="30" width="40" /></a>
+<a href="https://fb.com/faisal.ahmed.19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faisal.ahmed.19" height="30" width="40" /></a>
+</p>
 
-**🥅 Goals of 2024 🥅** - **Full Stack, React Native, GraphQL, Docker, AWS, Core Networking. Core Database\_**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-**💼 I’m ready to work ->**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-faisal-ahmed&show_icons=true&locale=en&layout=compact" alt="dev-faisal-ahmed" /></p>
 
-- **Languages:** JavaScript, TypeScript
-- **Technologies:** ReactJS, NextJS, TailwindCSS, Redux, React Hook From, ZOD, React Query | ExpressJS, Mongoose, Node Mailer
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, REST-API,
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-faisal-ahmed&show_icons=true&locale=en" alt="dev-faisal-ahmed" /></p>
 
-### Reach Me Out
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][linkedin]
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)][facebook]
-
-[linkedin]: https://www.linkedin.com/in/ost-faisal-ahmed
-[github]: https://github.com/dev-faisal-ahmed
-[resume]: https://drive.google.com/file/d/1k5hOasIUxbHswiyRqtKWD2PwRkPUDJFM/view?usp=sharing
-[facebook]: https://www.facebook.com/faisal.ahmed.19/
-
-## Current Stats
-
-<div align="center" >
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-faisal-ahmed&theme=github_dark" width="100%">
-</div>
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-faisal-ahmed&theme=github_dark" width="33%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-faisal-ahmed&theme=github_dark" width="33%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-faisal-ahmed&theme=github_dark&utcOffset=6" width="33%">
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-faisal-ahmed&" alt="dev-faisal-ahmed" /></p>
