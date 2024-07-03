@@ -1,6 +1,6 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=dev-faisal-ahmed&repo=github-visitors-badge&countColor=%00975B)
 
-<img style="width:100%" src="banner.png">
+<img style="width:100%;  border-radius: 30px;" src="banner.png">
 
 <br/>
 
@@ -27,15 +27,17 @@ A quick learner, I spend days finding optimal solutions to challenging problems.
 
 ## 💹Current Stats
 
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=dev-faisal-ahmed&theme=one-dark-pro&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
+<div align="center">
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=dev-faisal-ahmed&theme=one-dark-pro&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-faisal-ahmed&theme=onedark" width="80%">
+</div>
 
 <div align="center" >
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-faisal-ahmed&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-faisal-ahmed&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-faisal-ahmed&theme=github_dark&utcOffset=8" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-faisal-ahmed&theme=onedark" width="32%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-faisal-ahmed&theme=onedark" width="32%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-faisal-ahmed&theme=onedark&utcOffset=8" width="32%">
 </div>
 
 ## 👓 Current overview
@@ -43,5 +45,3 @@ A quick learner, I spend days finding optimal solutions to challenging problems.
 **🥅 Goals of 2024 🥅** - <b>Docker, GraphQL, AWS</b>
 <br/>
 **🤝 I’m looking** - To collaborate on open-source project
-
-## 👀 Reach Me Out
